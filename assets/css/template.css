@@ -294,6 +294,8 @@ footer {
 .fm_2,
 .fm_3 {
   flex: 1;
+  color: #fff;
+  padding: 20px;
 }
 
 .fm_1 {
